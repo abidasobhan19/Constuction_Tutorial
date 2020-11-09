@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Constuction_Tutorial/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Constuction_Tutorial/static/js/main.b95b2bc0.chunk.js",
-    "main.js.map": "/Constuction_Tutorial/static/js/main.b95b2bc0.chunk.js.map",
+    "main.js": "/Constuction_Tutorial/static/js/main.e15ca662.chunk.js",
+    "main.js.map": "/Constuction_Tutorial/static/js/main.e15ca662.chunk.js.map",
     "runtime-main.js": "/Constuction_Tutorial/static/js/runtime-main.7011c620.js",
     "runtime-main.js.map": "/Constuction_Tutorial/static/js/runtime-main.7011c620.js.map",
     "static/js/2.ee6e616c.chunk.js": "/Constuction_Tutorial/static/js/2.ee6e616c.chunk.js",
@@ -12,15 +12,15 @@
     "index.html": "/Constuction_Tutorial/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/Constuction_Tutorial/static/css/main.8c8b27cf.chunk.css.map",
     "static/js/2.ee6e616c.chunk.js.LICENSE.txt": "/Constuction_Tutorial/static/js/2.ee6e616c.chunk.js.LICENSE.txt",
-    "static/media/SignIn.323f61aa.jpg": "/Constuction_Tutorial/static/media/SignIn.323f61aa.jpg",
-    "static/media/SignIn2.3a879ab2.jpg": "/Constuction_Tutorial/static/media/SignIn2.3a879ab2.jpg",
-    "static/media/createp.6a6c03bf.jpg": "/Constuction_Tutorial/static/media/createp.6a6c03bf.jpg",
-    "static/media/landing.bc78fac0.jpg": "/Constuction_Tutorial/static/media/landing.bc78fac0.jpg"
+    "static/media/SignIn.16c9c6f9.gif": "/Constuction_Tutorial/static/media/SignIn.16c9c6f9.gif",
+    "static/media/createproject.1111e230.gif": "/Constuction_Tutorial/static/media/createproject.1111e230.gif",
+    "static/media/deleteproject.aea3cdfa.gif": "/Constuction_Tutorial/static/media/deleteproject.aea3cdfa.gif",
+    "static/media/updateproject.c77c1cbf.gif": "/Constuction_Tutorial/static/media/updateproject.c77c1cbf.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.7011c620.js",
     "static/js/2.ee6e616c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b95b2bc0.chunk.js"
+    "static/js/main.e15ca662.chunk.js"
   ]
 }
